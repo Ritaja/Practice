@@ -1,4 +1,5 @@
-package main.java.codility; /**
+package codility;
+/**
  * Copyright(c) 2009-2016 optile GmbH. All Rights Reserved
  * https://www.optile.net
  *
