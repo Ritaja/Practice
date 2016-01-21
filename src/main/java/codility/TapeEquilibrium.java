@@ -1,16 +1,5 @@
 package codility;
 /**
- * Copyright(c) 2009-2016 optile GmbH. All Rights Reserved
- * https://www.optile.net
- *
- * This software is the property of optile GmbH. Distribution
- * of this software without agreement in writing is strictly prohibited.
- *
- * This software may not be copied, used or distributed unless agreement
- * has been received in full.
- */
-
-/**
  * Programming language
  * Task description
  * A non-empty zero-indexed array A consisting of N integers is given. Array A represents numbers on a tape.
